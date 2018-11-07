@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: e9d76b730ab0f4b44bb2088cb6d1bc43
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: avantBras_L
+    100004: avantBras_R
+    100006: Bassin
+    100008: Bone
+    100010: bras_L
+    100012: bras_R
+    100014: Cage
+    100016: cercleComplet
+    100018: CERCLEd
+    100020: cercleRig
+    100022: Cerf
+    100024: Cerf_001
+    100026: corpsControle
+    100028: cou1
+    100030: cuisse_L
+    100032: cuisse_L_001
+    100034: cuisse_R
+    100036: cuisse_R_001
+    100038: //RootNode
+    100040: demiCercle
+    100042: demiCercleInverse
+    100044: epaule_L
+    100046: epaule_R
+    100048: machoire
+    100050: mollet_L
+    100052: mollet_R
+    100054: nuque
+    100056: oreille1_L
+    100058: oreille1_R
+    100060: oreille2_L
+    100062: oreille2_R
+    100064: oreille3_L
+    100066: oreille3_R
+    100068: pied_L
+    100070: pied_R
+    100072: piedArriere_L
+    100074: piedArriere_R
+    100076: piedAvant_R
+    100078: pipiedAvant_L
+    100080: placementRig
+    100082: poignet_L
+    100084: poignet_R
+    100086: queue1
+    100088: queue2
+    100090: queue3
+    100092: queue4
+    100094: sabot_L
+    100096: sabot_R
+    100098: sabotAvant_L
+    100100: sabotAvant_R
+    100102: tete
+    400000: Armature
+    400002: avantBras_L
+    400004: avantBras_R
+    400006: Bassin
+    400008: Bone
+    400010: bras_L
+    400012: bras_R
+    400014: Cage
+    400016: cercleComplet
+    400018: CERCLEd
+    400020: cercleRig
+    400022: Cerf
+    400024: Cerf_001
+    400026: corpsControle
+    400028: cou1
+    400030: cuisse_L
+    400032: cuisse_L_001
+    400034: cuisse_R
+    400036: cuisse_R_001
+    400038: //RootNode
+    400040: demiCercle
+    400042: demiCercleInverse
+    400044: epaule_L
+    400046: epaule_R
+    400048: machoire
+    400050: mollet_L
+    400052: mollet_R
+    400054: nuque
+    400056: oreille1_L
+    400058: oreille1_R
+    400060: oreille2_L
+    400062: oreille2_R
+    400064: oreille3_L
+    400066: oreille3_R
+    400068: pied_L
+    400070: pied_R
+    400072: piedArriere_L
+    400074: piedArriere_R
+    400076: piedAvant_R
+    400078: pipiedAvant_L
+    400080: placementRig
+    400082: poignet_L
+    400084: poignet_R
+    400086: queue1
+    400088: queue2
+    400090: queue3
+    400092: queue4
+    400094: sabot_L
+    400096: sabot_R
+    400098: sabotAvant_L
+    400100: sabotAvant_R
+    400102: tete
+    2100000: Material_001__peaudecerf
+    2300000: cercleComplet
+    2300002: CERCLEd
+    2300004: cercleRig
+    2300006: demiCercle
+    2300008: demiCercleInverse
+    2300010: placementRig
+    3300000: cercleComplet
+    3300002: CERCLEd
+    3300004: cercleRig
+    3300006: demiCercle
+    3300008: demiCercleInverse
+    3300010: placementRig
+    4300000: Cerf
+    4300002: Cerf_001
+    4300004: cercleComplet
+    4300006: CERCLEd
+    4300008: cercleRig
+    4300010: demiCercle
+    4300012: demiCercleInverse
+    4300014: placementRig
+    7400000: Default Take
+    7400002: PoseLib
+    9500000: //RootNode
+    13700000: Cerf
+    13700002: Cerf_001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
