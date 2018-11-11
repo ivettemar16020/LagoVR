@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 952ac82ed96622542834efba688991f5
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: object1
     100002: object10
@@ -52,6 +52,28 @@ ModelImporter:
     2100000: Wood_Palm
     2100002: Oak_Leaves
     2100004: Coconut
+    2100006: object1Mat
+    2100008: object10Mat
+    2100010: object11Mat
+    2100012: object12Mat
+    2100014: object13Mat
+    2100016: object14Mat
+    2100018: object15Mat
+    2100020: object16Mat
+    2100022: object17Mat
+    2100024: object18Mat
+    2100026: object19Mat
+    2100028: object2Mat
+    2100030: object20Mat
+    2100032: object21Mat
+    2100034: object22Mat
+    2100036: object3Mat
+    2100038: object4Mat
+    2100040: object5Mat
+    2100042: object6Mat
+    2100044: object7Mat
+    2100046: object8Mat
+    2100048: object9Mat
     2300000: object1
     2300002: object10
     2300004: object11
@@ -169,6 +191,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -188,7 +212,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

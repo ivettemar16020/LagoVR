@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: b53ee9ea2adcedd44b6c81f6d3b7fd09
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: object1
     100002: object10
@@ -141,6 +141,71 @@ ModelImporter:
     2100006: Dirt
     2100008: Wood_Light
     2100010: Wood_Dark
+    2100012: object1Mat
+    2100014: object10Mat
+    2100016: object11Mat
+    2100018: object12Mat
+    2100020: object13Mat
+    2100022: object14Mat
+    2100024: object15Mat
+    2100026: object16Mat
+    2100028: object17Mat
+    2100030: object18Mat
+    2100032: object19Mat
+    2100034: object2Mat
+    2100036: object20Mat
+    2100038: object21Mat
+    2100040: object22Mat
+    2100042: object23Mat
+    2100044: object24Mat
+    2100046: object25Mat
+    2100048: object26Mat
+    2100050: object27Mat
+    2100052: object28Mat
+    2100054: object29Mat
+    2100056: object3Mat
+    2100058: object30Mat
+    2100060: object31Mat
+    2100062: object32Mat
+    2100064: object33Mat
+    2100066: object34Mat
+    2100068: object35Mat
+    2100070: object36Mat
+    2100072: object37Mat
+    2100074: object38Mat
+    2100076: object39Mat
+    2100078: object4Mat
+    2100080: object40Mat
+    2100082: object41Mat
+    2100084: object42Mat
+    2100086: object43Mat
+    2100088: object44Mat
+    2100090: object45Mat
+    2100092: object46Mat
+    2100094: object47Mat
+    2100096: object48Mat
+    2100098: object49Mat
+    2100100: object5Mat
+    2100102: object50Mat
+    2100104: object51Mat
+    2100106: object52Mat
+    2100108: object53Mat
+    2100110: object54Mat
+    2100112: object55Mat
+    2100114: object56Mat
+    2100116: object57Mat
+    2100118: object58Mat
+    2100120: object59Mat
+    2100122: object6Mat
+    2100124: object60Mat
+    2100126: object61Mat
+    2100128: object62Mat
+    2100130: object63Mat
+    2100132: object64Mat
+    2100134: object65Mat
+    2100136: object7Mat
+    2100138: object8Mat
+    2100140: object9Mat
     2300000: object1
     2300002: object10
     2300004: object11
@@ -387,6 +452,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -406,7 +473,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

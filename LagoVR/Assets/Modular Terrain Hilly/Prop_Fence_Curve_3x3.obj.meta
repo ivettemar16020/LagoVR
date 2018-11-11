@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 776cefe326dc8a740a82648338fd1348
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: object1
     100002: object10
@@ -39,6 +39,22 @@ ModelImporter:
     400032: //RootNode
     2100000: Wood_Dark
     2100002: Wood_Light
+    2100004: object1Mat
+    2100006: object10Mat
+    2100008: object11Mat
+    2100010: object12Mat
+    2100012: object13Mat
+    2100014: object14Mat
+    2100016: object15Mat
+    2100018: object16Mat
+    2100020: object2Mat
+    2100022: object3Mat
+    2100024: object4Mat
+    2100026: object5Mat
+    2100028: object6Mat
+    2100030: object7Mat
+    2100032: object8Mat
+    2100034: object9Mat
     2300000: object1
     2300002: object10
     2300004: object11
@@ -138,6 +154,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -157,7 +175,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

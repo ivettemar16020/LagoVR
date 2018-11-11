@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1e1f22c78c00b624985178f84fe722c9
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: object1
     100002: //RootNode
@@ -10,6 +10,7 @@ ModelImporter:
     2100000: Grass
     2100002: Rock
     2100004: Dirt
+    2100006: object1Mat
     2300000: object1
     3300000: object1
     4300000: object1
@@ -64,6 +65,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -83,7 +86,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

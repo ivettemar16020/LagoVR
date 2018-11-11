@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1f9a575b817f1d541b5ff66487dcf4fb
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: object1
     100002: object10
@@ -30,6 +30,17 @@ ModelImporter:
     2100000: Pine_Leaves
     2100002: Pollen
     2100004: Lily
+    2100006: object1Mat
+    2100008: object10Mat
+    2100010: object11Mat
+    2100012: object2Mat
+    2100014: object3Mat
+    2100016: object4Mat
+    2100018: object5Mat
+    2100020: object6Mat
+    2100022: object7Mat
+    2100024: object8Mat
+    2100026: object9Mat
     2300000: object1
     2300002: object10
     2300004: object11
@@ -114,6 +125,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -133,7 +146,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
